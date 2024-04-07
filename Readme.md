@@ -14,14 +14,14 @@ This is a demo project showcasing the implementation of a real-time chat applica
 1. Clone the repository:
     git clone <https://github.com/GauravPratap-Singh/Chat_django.git>
     cd django-chat-app
-2. Install dependencies:
+3. Install dependencies:
     pip install -r requirements.txt
-3. Apply migrations:
+4. Apply migrations:
     python manage.py migrate
-4. Run the development server:
+5. Run the development server:
     python manage.py runserver
 
-5. Access the application in your web browser at `http://localhost:8000/rooms`.
+6. Access the application in your web browser at `http://localhost:8000/rooms`.
 
 ## Usage:
 1. Register a new account or log in with existing credentials.
